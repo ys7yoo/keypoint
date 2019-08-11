@@ -1,4 +1,4 @@
-# keypoint
+# keypoint detection task
 
 # Datasets
 
