@@ -3,10 +3,10 @@
 [A nice blog](https://towardsdatascience.com/human-pose-estimation-simplified-6cfd88542ab3)
 
 # related works
-## SOTA: https://paperswithcode.com/sota/keypoint-detection-on-coco
-## Mask-RCNN
-## CMU OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
-## Microsoft: https://github.com/microsoft/human-pose-estimation.pytorch/blob/master/README.md
+* SOTA: https://paperswithcode.com/sota/keypoint-detection-on-coco
+* Mask-RCNN
+* CMU OpenPose: https://github.com/CMU-Perceptual-Computing-Lab/openpose
+* Microsoft: https://github.com/microsoft/human-pose-estimation.pytorch/blob/master/README.md
 
 
 
