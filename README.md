@@ -5,7 +5,7 @@
 ## COCO dataset
 * http://cocodataset.org/index.htm#download
 * download
-  1. install Google Clound SDK (gsutil)
+  1. install Google Clound SDK
      ```
      curl https://sdk.cloud.google.com | bash
      source ~/.bashrc
